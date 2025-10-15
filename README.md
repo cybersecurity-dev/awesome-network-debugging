@@ -9,6 +9,7 @@
 </p>
 
 ## 📖 Contents
+- [Web Debugging Proxy](#web-debugging-proxy)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
